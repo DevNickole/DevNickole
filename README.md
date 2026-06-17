@@ -58,15 +58,6 @@ I'm a **Full-Stack Developer** from the Philippines who loves turning ideas into
 
 ---
 
-### 📊 Skills at a Glance
-
-```text
-Frontend Development   ████████████████████░   90%
-Backend Development    ███████████████████░░   85%
-Database Design        ████████████████░░░░░   75%
-DevOps / Deployment    █████████████░░░░░░░░   65%
-UI/UX Thinking         ████████████████░░░░░   78%
-```
 
 ---
 

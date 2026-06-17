@@ -1,90 +1,106 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=header" width="100%"/>
 
-<!-- Animated greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nickole+%F0%9F%91%8B;Full-Stack+Developer;Building+things+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nickole+%F0%9F%91%8B;Full-Stack+Developer;React+%7C+Node.js+%7C+Django+%7C+Python;Building+clean%2C+scalable+apps." alt="Typing SVG" />
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/DevNickole"><img src="https://img.shields.io/github/followers/DevNickole?label=Follow&style=social" alt="GitHub followers" /></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=DevNickole&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+<p>
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-000000?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Based_in-Philippines-000000?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=for-the-badge&labelColor=111111" />
 </p>
 
 </div>
 
 ---
 
-## About Me
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-I'm a **Full-Stack Developer** who loves crafting clean, scalable web applications — from pixel-perfect UIs to robust backend systems and everything in between. I care deeply about code quality, developer experience, and shipping products that actually work.
+### 👩‍💻 About Me
 
-- 🔭 Currently building something cool
-- 🌱 Always learning, always shipping
-- 💬 Ask me about React, Node.js, Django, or databases
-- ⚡ Fun fact: I debug best with coffee in hand
+I'm a **Full-Stack Developer** from the Philippines who loves turning ideas into real, working products. I'm equally comfortable designing UIs in React and architecting backends in Node.js or Django.
 
----
+- 🔭 &nbsp;Currently building full-stack web apps
+- 🌱 &nbsp;Passionate about clean code & great UX
+- 🛠️ &nbsp;Love working across the entire stack
+- 💡 &nbsp;Always exploring new tools & frameworks
+- ⚡ &nbsp;Debugging is just problem-solving in disguise
 
-## Tech Stack
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br clear="right"/>
 
 ---
 
-## GitHub Stats
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=light" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,php&theme=light" />
+</p>
+
+### 🗄️ Databases & BaaS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase&theme=light" />
+</p>
+
+### 🚀 DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,vscode&theme=light" />
+</p>
+
+---
+
+### 📊 Skills at a Glance
+
+```text
+Frontend Development   ████████████████████░   90%
+Backend Development    ███████████████████░░   85%
+Database Design        ████████████████░░░░░   75%
+DevOps / Deployment    █████████████░░░░░░░░   65%
+UI/UX Thinking         ████████████████░░░░░   78%
+```
+
+---
+
+### 🧩 What I Build
+
+| Layer | Technologies |
+|---|---|
+| 🖥️ **UI / Frontend** | React, TypeScript, Tailwind CSS, JavaScript, HTML, CSS |
+| 🔧 **API / Backend** | Node.js, Python, Django, PHP |
+| 🗃️ **Data Layer** | PostgreSQL, MongoDB, MySQL, Supabase, Firebase |
+| ☁️ **Deploy & Ship** | Docker, Vercel, Git |
+
+---
+
+### 💬 A Few Things I Believe
+
+> *"First, solve the problem. Then, write the code."*
+
+> *"Clean code is not written by following rules. It's written by someone who cares."*
+
+---
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=DevNickole&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNickole&layout=compact&theme=default&hide_border=true&langs_count=8" />
+### 🤝 Let's Connect
 
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DevNickole&theme=default&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## Let's Connect
-
-<p align="center">
+<p>
   <a href="https://github.com/DevNickole">
-    <img src="https://img.shields.io/badge/GitHub-DevNickole-181717?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-DevNickole-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;
-  <!-- Add your links below -->
-  <!-- <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a> -->
-  <!-- <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a> -->
-  <!-- <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> -->
 </p>
 
-<div align="center">
-  <sub>⭐ Feel free to star repos you find useful — it means a lot!</sub>
+<sub>⭐ Star a repo if you find it useful — it seriously makes my day!</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=100&section=footer" width="100%"/>
+
 </div>

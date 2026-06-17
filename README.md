@@ -1,6 +1,4 @@
-## Hi there 👋
-![](https://komarev.com/ghpvc/?username=DevNickole&color=green)
-<div align="center">
+
 
 <!-- Animated greeting -->
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nickole+%F0%9F%91%8B;Full-Stack+Developer;Building+things+that+matter." alt="Typing SVG" />
